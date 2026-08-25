@@ -60,3 +60,11 @@ After you click on any task from the list, *task detail* section appears on the 
 - after you're finished with the updates, click OK/Cancel to confirm/rollback the changes.
 - **if the status is set to completed, the task will be removed from the list!**
 - if there are any problems (such as cyclic dependencies), error dialog is displayed and the changes are taken back
+
+## Credits
+
+This project was originally created by **Vojtěch Lengál** ([vojta.lengal@gmail.com](mailto:vojta.lengal@gmail.com)),
+who designed and implemented the task management application, its JavaFX user interface
+and the SQLite persistence layer.
+
+This fork is maintained by **Nicolai Dahl** ([NicoDahl](https://github.com/NicoDahl)).
